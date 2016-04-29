@@ -1,4 +1,4 @@
-FROM kibana:4.4
+FROM kibana
 
 RUN \
   apt-get update && \
